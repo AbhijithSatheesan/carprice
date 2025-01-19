@@ -1,0 +1,58 @@
+Here's a comprehensive list of interview questions I would ask for a Python Django role, covering various aspects of technical skills:
+Technical Interview Questions:
+Self Introduction and Background
+
+Tell me about yourself and your journey into Python and Django development.
+What motivated you to learn Django, and what projects have you worked on?
+
+Python Fundamental Questions
+3. Explain the difference between lists, tuples, and sets in Python. When would you use each?
+4. What are decorators in Python? Provide an example of a custom decorator.
+5. How does memory management work in Python? Explain the concept of garbage collection.
+6. What are lambda functions? Give an example of where you might use them.
+7. Explain the difference between deep and shallow copying in Python.
+Django Specific Questions
+8. What is Django, and what are its key features?
+9. Explain the Django ORM. How do you create, retrieve, update, and delete database records?
+10. What is a Django migration? How do you create and apply migrations?
+11. Describe the Django request-response cycle.
+12. What are Django signals? Provide an example of when you might use them.
+13. Explain the difference between function-based views and class-based views in Django.
+Database and ORM Questions
+14. How do you optimize database queries in Django?
+15. What is the N+1 query problem, and how can you solve it?
+16. Explain the concept of model relationships in Django (OneToOne, ForeignKey, ManyToMany).
+Authentication and Security
+17. How do you implement user authentication in Django?
+18. What are some common security vulnerabilities in web applications, and how does Django help prevent them?
+19. Explain CSRF protection in Django.
+Machine Learning Integration
+20. How would you integrate a machine learning model into a Django application?
+21. Describe a project where you combined Django with machine learning.
+22. What libraries would you use for machine learning in a Django project?
+Advanced Python and Django
+23. What are Python's magic methods? Give an example.
+24. Explain the difference between __init__ and __new__ in Python classes.
+25. How do you handle asynchronous programming in Django?
+Practical Problem-Solving
+26. Write a Django view that implements a simple REST API endpoint.
+27. Design a basic user registration and login system in Django.
+28. How would you implement caching in a Django application?
+Debugging and Performance
+29. What tools do you use for debugging Python and Django applications?
+30. How do you profile and optimize the performance of a Django application?
+Scenario-Based Questions
+31. How would you design a scalable backend for a social media application using Django?
+32. Describe your approach to handling file uploads in a Django application.
+Machine Learning Specific
+33. Explain the process of training a machine learning model and deploying it through a Django API.
+34. What preprocessing techniques do you use before training a machine learning model?
+Soft Skills and Behavioral
+35. Describe a challenging technical problem you've solved.
+36. How do you stay updated with the latest developments in Python and Django?
+37. Tell me about a project where you had to learn a new technology quickly.
+Code Challenges
+38. Write a Python function to find the most frequent element in a list.
+39. Create a Django model for a simple blog application with user authentication.
+40. Implement a basic recommendation system using machine learning integrated with Django.
+Would you like me to elaborate on any of these questions or provide sample answers/code snippets for any of them?

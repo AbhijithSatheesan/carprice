@@ -1,0 +1,83 @@
+nterview Simulation: Python Django Role with ML Integration
+Phase 1: Introduction
+Interviewer: Good morning/afternoon! Let’s start with your introduction. Could you briefly tell me about yourself, your educational background, and your experience with Python, Django, and Machine Learning?
+
+Phase 2: Django Questions
+1. Django Basics
+
+What is Django, and why did you choose it for web development?
+How does Django's MTV (Model-Template-View) architecture work?
+Explain how Django handles database queries.
+What are Django's settings files used for? How do you handle different environments (e.g., development and production)?
+2. Models and Migrations
+
+What are models in Django, and how do you define them?
+How do migrations work in Django? What command would you use to apply all pending migrations?
+How would you add a new field to an existing model without losing data?
+3. Views and Templates
+
+Explain the difference between function-based views (FBVs) and class-based views (CBVs). Which do you prefer, and why?
+How would you pass data from a view to a template?
+How do you handle forms in Django?
+4. Authentication and Authorization
+
+How does Django handle user authentication?
+How would you implement a feature where users can only access their data and not others'?
+5. REST Framework
+
+Have you worked with Django REST Framework (DRF)? Can you explain how you would create a RESTful API for an e-commerce app?
+What are serializers in DRF, and why are they used?
+6. Deployment
+
+How do you deploy a Django project?
+What are WSGI and ASGI? How are they relevant to Django?
+What tools would you use to monitor a deployed Django application?
+Phase 3: Python Questions
+1. Python Basics
+
+Explain the difference between a list and a tuple in Python.
+What are Python's mutable and immutable data types?
+How does Python's garbage collection work?
+2. Intermediate Python
+
+What is a decorator in Python? Can you give an example of where you might use one?
+How would you handle exceptions in Python?
+Explain the use of @staticmethod and @classmethod.
+3. Advanced Python
+
+How does Python's GIL (Global Interpreter Lock) affect multi-threading?
+What are Python generators, and how do they differ from iterators?
+How would you optimize a slow Python application?
+Phase 4: Logical and Problem-Solving Questions
+1. Basic Logic
+
+Write a Python function to reverse a string.
+How would you find the most frequent element in a list?
+2. Intermediate Logic
+
+Write a function to check if a string is a palindrome.
+How would you implement a basic stack or queue using Python lists?
+3. Complex Logic
+
+Given a list of numbers, find the pair that adds up to a specific target sum. Optimize for performance.
+Write a function to traverse a binary tree in-order.
+Phase 5: Machine Learning Integration with Django
+1. Machine Learning Basics
+
+What machine learning algorithms have you worked with? Can you explain one in detail?
+How do you evaluate the performance of a machine learning model?
+2. Integration with Django
+
+How would you integrate a pre-trained ML model into a Django project?
+What is the role of APIs in serving ML predictions through a Django application?
+How would you handle scalability when your ML model needs to serve predictions for thousands of requests per minute?
+3. Real-World Scenario
+
+Suppose you have an ML model predicting house prices. How would you design an end-to-end Django application to allow users to input data and receive predictions?
+How would you log and monitor the predictions for accuracy and anomalies?
+Phase 6: Closing
+Interviewer:
+
+Is there anything specific you would like to ask or discuss about this role?
+Are there any projects you’re particularly proud of that you’d like to share?
+This structure balances technical, logical, and real-world application-focused questions. Would you like guidance on answering any specific questions or topics?
