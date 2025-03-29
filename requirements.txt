@@ -1,0 +1,10 @@
+Django==5.0.6
+djangorestframework==3.15.1
+django-cors-headers==4.3.1
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9  # If you're using PostgreSQL
+whitenoise==6.7.0  # For serving static files
+gunicorn==21.2.0  # Adding this for production server
